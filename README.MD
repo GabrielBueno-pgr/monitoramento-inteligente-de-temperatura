@@ -17,4 +17,3 @@ Desenvolver uma aplicação para simular leituras de sensores.
 
 ## Estrutura
 - src: Codigo Principal.
-- docs: Documentação.
